@@ -11,8 +11,7 @@ Pacakage use example:
     # Get your own API key from Open Weather Map
 
     >>> cityweather = Weather(
-    apikey = '**************', city='Pune')
-
+    apikey = '**************', city='Agra')
     # Using latitude and longitude coordinates
     >>> cityweather = Weather(apikey = '**************', lon='78', lan='56')
 
