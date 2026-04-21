@@ -22,19 +22,12 @@ A simple and responsive weather application that allows users to check real-time
 * OpenWeatherMap API (or any weather API you used)
 
 ---
-
-## 📸 Screenshots
-
-(Add your app screenshots here)
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/cityweather.git
+   git clone https://github.com/devyadav0011/cityweather.git
    ```
 
 2. Navigate to project folder
@@ -42,8 +35,6 @@ A simple and responsive weather application that allows users to check real-time
    ```bash
    cd cityweather
    ```
-
-3. Open `index.html` in your browser
 
 ---
 
