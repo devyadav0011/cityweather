@@ -25,8 +25,7 @@ A simple and responsive weather application that allows users to check real-time
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-
-   ```bash
+ ```bash
    git clone https://github.com/devyadav0011/cityweather.git
    ```
 
