@@ -25,7 +25,6 @@ Pacakage use example:
     # url to find sky condions icons:
     # change the 2x.png with other values(10d.png)
     >>>  http://openweathermap.org/img/wn/10d@2x.png
-
 '''
 
 class Weather:
