@@ -8,6 +8,7 @@ and either a city name ot langitude(lan) or longitude(lon)
 Pacakage use example:
     # Create a weather object using a city name.
     # Response depend on the API key.
+    
     # Get your own API key from Open Weather Map
 
     >>> cityweather = Weather(
