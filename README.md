@@ -12,6 +12,7 @@ A simple and responsive weather application that allows users to check real-time
 * 📱 Responsive design (works on mobile & desktop)
 * ⚡ Fast and lightweight
 
+
 ---
 
 ## 🛠️ Tech Stack
